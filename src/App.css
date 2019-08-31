@@ -1,0 +1,8 @@
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 900;
+  color: white;
+  letter-spacing: 2px;
+  text-decoration: underline;
+  text-shadow: 2px 2px black;
+}
